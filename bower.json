@@ -1,0 +1,27 @@
+{
+  "name": "require-d3",
+  "version": "0.0.1",
+  "authors": [
+    "smashweaver <jasonjimenez@live.com>"
+  ],
+  "description": "wrap d3 in require module",
+  "main": "index.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "d3",
+    "require"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "d3": "~3.5.5"
+  }
+}
