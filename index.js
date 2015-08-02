@@ -1,3 +1,1 @@
-define(["d3"],function(d3){
-  return window.d3;
-});
+define('d3', [], function() { return window.d3; });
